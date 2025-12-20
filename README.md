@@ -15,7 +15,7 @@ Add the bundle to your `config/bundles.php`:
 ```php
 return [
     // ...
-    Alexandrebulete\DddDoctrineBundle\DddDoctrineBundle::class => ['all' => true],
+    AlexandreBulete\DddDoctrineBundle\DddDoctrineBundle::class => ['all' => true],
 ];
 ```
 

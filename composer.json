@@ -17,12 +17,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Alexandrebulete\\DddDoctrineBundle\\": "src/"
+            "AlexandreBulete\\DddDoctrineBundle\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Alexandrebulete\\DddDoctrineBundle\\Tests\\": "tests/"
+            "AlexandreBulete\\DddDoctrineBundle\\Tests\\": "tests/"
         }
     },
     "minimum-stability": "stable",
